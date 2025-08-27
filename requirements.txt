@@ -1,0 +1,14 @@
+numpy
+pandas
+geopandas
+rasterio
+rasterstats
+shapely
+scikit-learn
+xgboost
+matplotlib
+seaborn
+joblib
+openpyxl
+xlsxwriter
+tqdm
