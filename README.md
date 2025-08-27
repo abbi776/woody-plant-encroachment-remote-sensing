@@ -1,15 +1,8 @@
-<h1 align="center">🌱 Woody Plant Encroachment Monitoring (Remote Sensing + ML)</h1>
+# Woody Plant Encroachment Monitoring (Remote Sensing + ML)
 
-<p align="center">
-Open-source framework for monitoring woody plant encroachment in floodplain wetlands using 
-<strong>multi-season Sentinel-2 imagery, spectral indices, terrain variables, and machine learning (Random Forest &amp; XGBoost)</strong>.
-</p>
+Open-source framework for monitoring woody plant encroachment in floodplain wetlands using **multi-season Sentinel-2 imagery, spectral indices, terrain variables, and machine learning (Random Forest & XGBoost)**.
 
-<p align="center">
-This repository contains all the scripts, environment requirements, and instructions needed to reproduce the analysis — 
-from preprocessing Sentinel-2 data to generating encroachment statistics and publication-ready figures.
-</p>
-
+This repository contains all the scripts, environment requirements, and instructions needed to reproduce the analysis — from preprocessing Sentinel-2 data to generating encroachment statistics and publication-ready figures.
 
 ---
 
