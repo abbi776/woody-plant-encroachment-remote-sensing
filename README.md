@@ -1,6 +1,6 @@
 # Woody Plant Encroachment Monitoring (Remote Sensing + ML)
 
-Open-source framework for monitoring woody plant encroachment in floodplain wetlands using **multi-season Sentinel-2 imagery, spectral indices, terrain variables, and machine learning (Random Forest & XGBoost)**.
+Open-source framework for monitoring woody plant encroachment in floodplain wetlands using **multi-seasonal Sentinel-2 imagery, spectral indices, terrain variables, and machine learning (Random Forest & XGBoost)**.
 
 This repository contains all the scripts, environment requirements, and instructions needed to reproduce the analysis — from preprocessing Sentinel-2 data to generating encroachment statistics and publication-ready figures.
 
@@ -14,7 +14,7 @@ This repository contains all the scripts, environment requirements, and instruct
 - Random Forest (RF) and XGBoost (XGB) classification with hyperparameter tuning.
 - Pixel-level classification at ROI and wetland boundaries.
 - Automated computation of **area statistics & change detection (2016–2025)**.
-- Generation of comparison figures for **RF vs XGB models** (Panels A–D in the paper).
+- Generation of comparison figures for **RF vs XGBoost models** (Panels A–D in the paper).
 
 ---
 
@@ -104,7 +104,7 @@ The workflow is broken into **numbered scripts** for clarity:
    - Compute areas → `07_wetland_stats.py`  
    - Generate plots → `07b_wetland_plots.py`
 
-8. **RF vs XGB comparison panels** (A–D)  
+8. **RF vs XGBoost comparison panels** (A–D)  
    ```bash
    python scripts/08_rf_xgb_comparison_panels.py
    ```
@@ -157,6 +157,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 For questions or collaboration:  
-**Omer Toqeer**  
+**Abdullah Toqeer**  
 PhD Candidate, Charles Sturt University  
-Email: *[add your preferred email]*  
+Email: *[toqeerabdullah776@gamil.com]*  
