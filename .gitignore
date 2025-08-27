@@ -205,3 +205,33 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# ===============================
+# Project-specific ignores
+# ===============================
+
+# Large geospatial rasters & SAFE folders
+*.tif
+*.tiff
+*.jp2
+*.SAFE/
+*.zip
+
+# Model files
+*.pkl
+*.joblib
+
+# Results (Excel, CSV, figures)
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.png
+*.svg
+
+# Logs and temporary runs
+*.log
+*.tmp
+*.bak
