@@ -159,4 +159,4 @@ This project is licensed under the [MIT License](LICENSE).
 For questions or collaboration:  
 **Abdullah Toqeer**  
 PhD Candidate, Charles Sturt University  
-Email: *[toqeerabdullah776@gamil.com]*  
+Email: *toqeerabdullah776@gmail.com*  
