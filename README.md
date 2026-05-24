@@ -164,6 +164,22 @@ Please open an issue or submit a pull request if you’d like to improve code ef
 
 ---
 
+## 📚 Citation
+
+If you use this repository or build on this workflow, please cite:
+
+```bibtex
+@inproceedings{toqeer2025wpe,
+  title={A Spatiotemporal Machine Learning Framework to Detect Woody Plant Encroachment into Hydrologically Altered Wetlands},
+  author={Toqeer, Abdullah and Hall, Andrew and Horta, Ana and Wassens, Skye},
+  booktitle={2025 IEEE International Conference on Data Mining Workshops (ICDMW)},
+  year={2025},
+  doi={10.1109/ICDMW69685.2025.00083}
+}
+
+---
+
+
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
