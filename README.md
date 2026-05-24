@@ -12,11 +12,7 @@ This repository contains the open-source implementation for the following paper:
 
 **A Spatiotemporal Machine Learning Framework to Detect Woody Plant Encroachment into Hydrologically Altered Wetlands**
 
-Toqeer, A., Hall, A., Horta, A., & Wassens, S.
-
-Published in: *2025 IEEE International Conference on Data Mining Workshops (ICDMW)*
-
-DOI: https://doi.org/10.1109/ICDMW69685.2025.00083
+**DOI:** https://doi.org/10.1109/ICDMW69685.2025.00083
 
 ---
 
@@ -168,14 +164,7 @@ Please open an issue or submit a pull request if you’d like to improve code ef
 
 If you use this repository or build on this workflow, please cite:
 
-```bibtex
-@inproceedings{toqeer2025wpe,
-  title={A Spatiotemporal Machine Learning Framework to Detect Woody Plant Encroachment into Hydrologically Altered Wetlands},
-  author={Toqeer, Abdullah and Hall, Andrew and Horta, Ana and Wassens, Skye},
-  booktitle={2025 IEEE International Conference on Data Mining Workshops (ICDMW)},
-  year={2025},
-  doi={10.1109/ICDMW69685.2025.00083}
-}
+A. Toqeer, A. Hall, A. Horta and S. Wassens, "A Spatiotemporal Machine Learning Framework to Detect Woody Plant Encroachment into Hydrologically Altered Wetlands," 2025 IEEE International Conference on Data Mining Workshops (ICDMW), Washington, DC, USA, 2025, pp. 681-690, doi: 10.1109/ICDMW69685.2025.00083.
 
 ---
 
