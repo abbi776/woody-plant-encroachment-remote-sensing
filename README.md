@@ -6,6 +6,20 @@ This repository contains all the scripts, environment requirements, and instruct
 
 ---
 
+## 📄 Paper
+
+This repository contains the open-source implementation for the following paper:
+
+**A Spatiotemporal Machine Learning Framework to Detect Woody Plant Encroachment into Hydrologically Altered Wetlands**
+
+Toqeer, A., Hall, A., Horta, A., & Wassens, S.
+
+Published in: *2025 IEEE International Conference on Data Mining Workshops (ICDMW)*
+
+DOI: https://doi.org/10.1109/ICDMW69685.2025.00083
+
+---
+
 ## 🌱 Key Features
 - Sentinel-2 preprocessing (SAFE → stacked multi-band GeoTIFFs).
 - Automatic extraction of seasonal spectral indices (NDVI, NDWI, EVI, MSAVI2, etc.).
